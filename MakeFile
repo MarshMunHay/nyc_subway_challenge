@@ -1,0 +1,6 @@
+
+env:
+	python3 pip install requirements.txt
+
+make lab:
+	jupyter lab
